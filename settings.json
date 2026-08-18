@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SummerServer-5ReQ.aternos.me:47555",
+    "ip": "SummerServer-5ReQ.aternos.me",
     "port": 47555,
     "version": "",
     "try-creative": false
